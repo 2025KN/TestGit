@@ -7,7 +7,7 @@ git commit -m '메세지'                                      고른 파일을 
 
 git remote add <별칭> <깃허브주소>                           원격 저장소 연결결
 
-git remote --verbise                                        연결된 원격 저장소 확인
+git remote --verbose                                        연결된 원격 저장소 확인
 
 git remote rename <old-remote-name> <new-remote-name>       원격저장소 이름 변경
 
